@@ -1,0 +1,1 @@
+<?php echo "<h3>Download OpenVPN Config:</h3><a href='vpn-config.ovpn'>Download OVPN</a>"; ?>

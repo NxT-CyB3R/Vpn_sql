@@ -1,0 +1,1 @@
+<?php echo "<h3>SSH/WebSocket Credentials:</h3><p>Server: your-vps-ip</p><p>Port: 443</p>"; ?>
